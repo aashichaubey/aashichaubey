@@ -37,9 +37,9 @@ On my weekends, I love participating in hackathons — recently won 1st place ou
 
 ### My GitHub Activity:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aashi-Chaubey/Aashi-Chaubey/output/github-contribution-grid-tetris-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aashi-Chaubey/Aashi-Chaubey/output/github-contribution-grid-tetris.svg">
-  <img alt="github contribution grid tetris" src="https://raw.githubusercontent.com/Aashi-Chaubey/Aashi-Chaubey/output/github-contribution-grid-tetris.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris.svg">
+  <img alt="github contribution grid tetris" src="https://raw.githubusercontent.com/aashichaubey/aashichaubey/output/github-contribution-grid-tetris.svg">
 </picture>
 
 

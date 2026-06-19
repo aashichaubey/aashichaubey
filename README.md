@@ -1,7 +1,7 @@
 
 ## About me 👋
 I'm Aashi Chaubey, a **Computer Engineering student** at the University of Waterloo with a passion for autonomous systems and AI/ML. I've interned at Shopify (ML/agentic systems), Motorola Solutions (AI agent engineering, MCP-powered LangGraph agents), and Interac Corp (NLP research, fintech), and I'm currently an Undergraduate Research Assistant in Prof. Sirisha Rambhatla's lab working on semantic segmentation with foundation models.
-On my weekends, I love participating in hackathons — recently won 1st place out of 1,450 at Shopify Hack Days, 1st place at WIE Hackathon, and Best HealthTechHack at Deltahacks.
+
 ⚡ I am looking for Fall 2026 internships in ML engineering and AI backend roles, and I would love to get in touch!
 
 ## 🛠️ Tech Stack
